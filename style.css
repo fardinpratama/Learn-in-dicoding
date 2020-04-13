@@ -22,6 +22,11 @@ body {
     margin: 5% 20%;
 }
 
+#profile-job {
+    font-family: 'Roboto';
+    color: seagreen;
+}
+
 #header {
     width: 100%;
     height: 50px;
